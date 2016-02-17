@@ -39,3 +39,5 @@ dismathportfolio-itstakzz created by Classroom for GitHub
 
 # Week 4
 * I learned about mathematical Induction
+Takeshi isobe
+
