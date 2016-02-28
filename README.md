@@ -39,6 +39,12 @@ dismathportfolio-itstakzz created by Classroom for GitHub
 
 # Week 4
 * I learned about mathematical Induction
+* I also learned how to use proof of equivalence
 
+# Week 5 
+* I did some excercise on recurisve algorithm to review for the quiz
+* I also learned about power series
+
+# Week 6
+* 
 Takeshi isobe
-
