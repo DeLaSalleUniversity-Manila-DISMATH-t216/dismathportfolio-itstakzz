@@ -50,19 +50,19 @@ dismathportfolio-itstakzz created by Classroom for GitHub
 * I also learne about functions
 * the cardinalities of sets
 * injective, surjective and bijection
-* 
+
 # Week 7 
-* we had a call of beause of the quiz
-* 
+*  we had a call of beause of the quiz
+
 # Week 8
 * I learned about algorithms and Pseudo codes
 * Searching alogirthms binary and linear
-* 
+
 # Week 9
 * I learned about sorting algorithms like bubble sort and insert sort
 * also learned about time comlexity of an algorithm
 * the Big O and big omega and big theta
-* 
+
 # Week 10
 * we learned about graph theory and different theorems
 * Handshake theorem
@@ -70,9 +70,9 @@ dismathportfolio-itstakzz created by Classroom for GitHub
 * Hamilton circuits and paths
 * planar graphs
 * and homeorphic graphs
-* 
+
 # Week 11
 * WE learned about graph coloring and trees 
 * Modeling computation and turing machines.
-* 
+
 by Takeshi isobe
